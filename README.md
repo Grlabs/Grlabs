@@ -48,9 +48,7 @@ Meu objetivo é transformar conhecimento em projetos práticos e evoluir continu
 
 ## 🚀 Objetivos
 
-- Desenvolver projetos que unam programação e engenharia.
 - Aprimorar conhecimentos em algoritmos e estruturas de dados.
-- Explorar robótica, automação e sistemas embarcados.
 - Construir soluções para problemas reais.
 - Compartilhar meu aprendizado por meio de projetos documentados.
 
