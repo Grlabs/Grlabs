@@ -64,7 +64,7 @@ Meu objetivo é transformar conhecimento em projetos práticos e evoluir continu
 </a>
 
 
-<a href="https://www.linkedin.com/in/guilherme-rodrigues-465633397/" target="_blank">
+<a href="https://www.linkedin.com/in/guilhermerodriugues-gr/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
